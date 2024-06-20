@@ -1,0 +1,77 @@
+{
+    "Sheet1": [
+      {
+        "Subject": "PROBABILITY AND STATISTICS",
+        "Books": [
+          "R.K. Jain and S.R. K. Iyengar, \"Advanced Engineering Mathematics\"",
+          "Dr. B. S. Grewal \"Higher Engineering Mathematics\"",
+          "P. Siva Rama Krishna Das & C. Vijaya Kumar, \"Engineering Mathematics\""
+        ]
+      },
+      {
+        "Subject": "OOPS USING JAVA",
+        "Books": [
+          "Schildt and Herbert, Java The complete reference, McGraw, 8th edition",
+          "R Nageswara Rao, Core JAVA: An Integrated Approach, Black Book",
+          "Cay S. Horstmann, Core JAVA Volume I—Fundamentals"
+        ]
+      },
+      {
+        "Subject": "DIGITAL ELECTRONICS AND LIGIC DESIGN",
+        "Books": [
+          "Moris Mano and Michael D CIletti, Digital Design, Pearson, fourth edition",
+          "Zvi Kohavi, Switching and Finite Automata Theory, 3rd ed",
+          "R. P Jain, Modern Digital Electronics,4th ed"
+        ]
+      },
+      {
+        "Subject": "DATABASE MANAGEMENT SYSTEMS",
+        "Books": [
+          "Abraham Silberchatz, Henry F Korth and Sudarshan S, “Database System Concepts”",
+          "Raghu Ramakrishnan and Johannes Gehrke, “Database Management Systems”",
+          "RamezElmasri and Shamkant B Navathe, “Fundamentals of Database Systems”"
+        ]
+      },
+      {
+        "Subject": "DISCRETE MATHEMATICS",
+        "Books": [
+          "Kenneth H. Rosen, Discrete Mathematics and its Applications,",
+          "Susanna S. Epp, Discrete Mathematics with Applications,4th edition",
+          "C L Liu and D P Mohapatra, Elements of Discrete Mathematics A Computer Oriented Approach, 3rd Edition"
+        ]
+      },
+      {
+        "Subject": "ELECTRICAL TECHNOLOGY",
+        "Books": [
+          "J.B. Gupta “Fundamentals of Electrical Engineering and Electronics”",
+          "P. S. Bimbhra, Electrical Machinery",
+          "Sunil R. Pawar “Electrical vehicle technology”"
+        ]
+      },
+      {
+        "Subject": "OOPS USING JAVA LAB",
+        "Books": [
+          "Java The complete reference, 8th edition, Herbert Schildt",
+          "Core and Advanced Java, Black Book"
+        ]
+      },
+      {
+        "Subject": "DATABASE MANAGEMENT SYSTEMS LAB",
+        "Books": [
+          "Abraham Silberchatz, Henry F Korth and Sudarshan S, “Database System Concepts”",
+          "Raghu Ramakrishnan and Johannes Gehrke, “Database Management Systems”",
+          "RamezElmasri and Shamkant B Navathe, “Fundamentals of Database Systems”"
+        ]
+      },
+      {
+        "Subject": "SOFTSKILLS LAB",
+        "Books": [
+          "Andrea J. Rutherford. Basic Communication Skills for Technology",
+          "Anne Dannellon. Team Talk The Power of Language in Team Dynamics.",
+          "Antony Jay and Ros Jay. Effective Presentation. How to be a Top Class Presenter.",
+          "Daniel Goldman. Emotional Intelligence. New York. Bantam Books"
+        ]
+      }
+    ]
+  }
+  

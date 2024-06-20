@@ -1,0 +1,74 @@
+{
+    "Sheet1": [
+      {
+        "Subject": "EMBEDDED SYSTEM",
+        "Books": [
+          "Raj Kamal, Embedded Systems Architecture, Programming and Design",
+          "Christopher Hallinan, “Embedded Linux Primer: A practical Real-World approach\"",
+          "Daniel P. Bovet and Marco Cesati, \"Understanding the Linux Kernel\"",
+          "John Madieu, \"Linux Device Drivers Development: Develop customized drivers for embedded Linux\"",
+          "Jonathan Corbet, Alessandro Rubini, Greg Kroah, \"Linux Device Drivers\""
+        ]
+      },
+      {
+        "Subject": "SOFTWARE ENGINEERING",
+        "Books": [
+          "Roger S. Pressman, Software Engineering: A Practitioners Approach",
+          "AliBehforoz and Frederic Johansson, Software Engineering Fundamentals",
+          "PankajJalote―An Integrated Approach to Software Engineering, Third Edition"
+        ]
+      },
+      {
+        "Subject": "AI&ML",
+        "Books": [
+          "Stuart Russell, Peter Norvig: Artificial Intelligence, A Modern Approach",
+          "Stephen Marsland, Machine Learning: An Algorithmic Perspective, Second Edition",
+          "Kevin Murphy, Machine Learning: A Probabilistic Perspective"
+        ]
+      },
+      {
+        "Subject": "MINI PROJECT",
+        "Books": [
+          "Roger S. Pressman, Software Engineering: A Practitioner’s Approach, 7thEdition",
+          "Ali Beh forooz and Frederick J.Hudson, Software Engineering Fundamentals",
+          "Pankaj Jalote, An Integrated Approach to Software Engineering, 3rd Edition"
+        ]
+      },
+      {
+        "Subject": "INFORMATION SECURITY",
+        "Books": [
+          "Cryptography and Network Security: William Stallings",
+          "Cryptography and Network Security: Atul Kahate",
+          "Network Security and Cryptography: Bernard Menezes"
+        ]
+      },
+      {
+        "Subject": "NLP",
+        "Books": [
+          "Steven Bird, Ewan Klein and Edward Loper, ―Natural Language Processing with Python",
+          "Daniel Jurafsky, James H. Martin―Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech"
+        ]
+      },
+      {
+        "Subject": "INFORMATION RETRIEVAL SYSTEMS",
+        "Books": [
+          "Information Storage and Retrieval Systems – Theory and Implementation"
+        ]
+      },
+      {
+        "Subject": "AD HOC&WIRELESS SENSOR NETWORKS",
+        "Books": [
+          "C.Siva Ram Murthy and B.S.Manoj, ―Ad Hoc Wireless Networks – Architectures and 2 Protocols",
+          "Holger Karl, Andreas Willing, ―Protocols and Architectures for Wireless Sensor Networks"
+        ]
+      },
+      {
+        "Subject": "PARALLEL ALGORITHMS",
+        "Books": [
+          "Ananth Grama, Anushul Gupta,George Karypis and Vipin Kumar, Introduction to Parallel Computing",
+          "Introduction to Parallel Processing Algorithms and Architecture, Behrooz Parhami"
+        ]
+      }
+    ]
+  }
+  

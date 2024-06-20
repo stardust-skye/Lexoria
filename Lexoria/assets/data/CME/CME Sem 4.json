@@ -1,0 +1,62 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "EFFECTIVE TECHNICAL COMMUNICATION",
+            "Books": [
+                "Raman, Meenakshi & Sharma, Sangeeta, “Technical Communication: Principles and Practices",
+                "Rizvi, Ashrad, M, Effective Technical Communication (2nd Ed.)",
+                "Sharma, R.C., & Mohan, Krishna Business Correspondence and Report Writing: A Practical Approach to Business & Technical Communication",
+                "Tyagi, Kavitha & Misra, Padma, Advanced Technical Communication"
+            ]
+        },
+        {
+            "Subject": "AUTOMATA THEORY LANGUAGES AND COMPUTATION",
+            "Books": [
+                "John Hopcroft, Rajeev Motwani, Jeffery D Ulman. Introduction to Automata Theory Languages and Computation",
+                "John C. Martin, Introduction to Languages and the Theory of computation",
+                "Thomas Sudkamp, Languages and Machines: An Introduction to the Theory of Computer Science"
+            ]
+        },
+        {
+            "Subject": "OPERATING SYSTEMS",
+            "Books": [
+                "Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts Essentials",
+                "William Stallings, Operating Systems: Internals and Design Principles",
+                "Maurice Bach, Design of the Unix Operating Systems",
+                "Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel",
+                "Naresh Chauhan, Principles of Operating Systems"
+            ]
+        },
+        {
+            "Subject": "DATABASE MANAGEMENT SYSTEMS",
+            "Books": [
+                "Abraham Silberchatz, Henry F Korth and Sudarshan S, “Database System Concepts”",
+                "Ramez Elmasri and Shamkant B Navathe, “Fundamentals of Database Systems”, Addison Wesley",
+                "Raghu Ramakrishnan and Johannes Gehrke, “Database Management Systems”"
+            ]
+        },
+        {
+            "Subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
+            "Books": [
+                "E. Horowitz, S. Sahni, Fundamentals of Computer Algorithms.",
+                "M T Goodrich, Roberto Tamassia, Algorithm Design, John Wiley",
+                "Alfred V Aho, John E. Hopcroft and Jeffrey D. Ullman, “Data Structures Algorithm”"
+            ]
+        },
+        {
+            "Subject": "OPERATING SYSTEMS LAB",
+            "Books": [
+                "Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts Essentials",
+                "Naresh Chauhan, Principles of Operating Systems"
+            ]
+        },
+        {
+            "Subject": "DATABASE MANAGEMENT SYSTEMS LAB",
+            "Books": [
+                "SQL, PL/SQL- The programming language of oracle, 4th Edition, Ivan Bayross",
+                "Oracle PL/SQL Training guide, SAMS",
+                "The Complete Reference, SQL, 3rd Edition, James R. Groff, Paul N. Weinberg, Andrew J. Oppel"
+            ]
+        }
+    ]
+}

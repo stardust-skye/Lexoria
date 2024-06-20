@@ -1,0 +1,61 @@
+{
+    "Sheet1": [
+      {
+        "Subject": "ECHNIQUES ON SIGNALS AND SYSTEMS",
+        "Books": [
+          "B. P. Lathi, Linear Systems and Signals",
+          "A. V. Oppenheim, A.S. Willsky – Signals & Systems",
+          "P. Ramesh Babu, R.Ananada Natarajan-Signals and Systems",
+          "P. Ramakrishna Rao, Signals and Systems"
+        ]
+      },
+      {
+        "Subject": "THEORY OF AUTOMATA",
+        "Books": [
+          "John Hopcroft, Rajeev Motwani, Jeffery D Ulman. Introduction to Automata Theory Languages and Computation",
+          "John C. Martin, Introduction to Languages and the Theory of computation",
+          "Thomas Sudkamp, Languages and Machines: An Introduction to the Theory of Computer Science"
+        ]
+      },
+      {
+        "Subject": "OPERATING SYSTEMS",
+        "Books": [
+          "AviSilberschatz,PeterGalvin,GregGagne,Operating System Concepts Essentials",
+          "William Stallings, Operating Systems: Internals and Design Principles",
+          "Maurice Bach, Design of the Unix Operating Systems"
+        ]
+      },
+      {
+        "Subject": "FUNDAMENTALS OF DIGITAL IMAGE PROCESSING",
+        "Books": [
+          "Rafeal C. Gonzalez, Richards E. Woods, Steven L. Eddins, “Digital Image Processing Using MATLAB”",
+          "Jayaraman S., Esakkirajan S., Veera Kumar T., “Digital Image Processing”",
+          "Anil K. Jain, “Fundamentals of Digital Image Processing”"
+        ]
+      },
+      {
+        "Subject": "CONCEPTS IN COMPUTER ORGANIZATION AND MICROPROCESSOR",
+        "Books": [
+          "Carl Hamacher, ZvonkoVranesic, SafwatZaky, Computer Organization, 5th Edition",
+          "Ramesh S Gaonkar, Microprocessor Architecture, Programming, and Applications with the 8085",
+          "Pal Chouduri, Computer Organization and Design"
+        ]
+      },
+      {
+        "Subject": "PYTHON PROGRAMMING LAB",
+        "Books": [
+          "Monu Singh Rakesh K. Yadav, Srinivas Arukonda \"Zero To Mastery In Python Programming\"",
+          "Martin C. Brown,” PYTHON: The Complete Reference”",
+          "Allen Downey , “Learning with Python”"
+        ]
+      },
+      {
+        "Subject": "OPERATING SYSTEMS LAB",
+        "Books": [
+          "AviSilberschatz,PeterGalvin,GregGagne,Operating System Concepts Essentials",
+          "Naresh Chauhan, Principles of Operating Systems"
+        ]
+      }
+    ]
+  }
+  

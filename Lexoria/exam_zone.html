@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexoria | Exam Zone</title>
+    <link rel="stylesheet" href="exam-style.css">
+    <link rel="icon" type="image/png" href="/assets/images/NinX logo.jpg">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <div class="nav-blur-bg"></div>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="/assets/images/logo.jpg" alt="Logo">
+                </a>
+            </div>
+            <div class="right">
+                <ul>
+                    <li>
+                        <a href="index.html">
+                            <span>Home</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                                      stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="litera.html">
+                            <span>Litera</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exam_zone.html">
+                            <span>Exam Zone</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="reference.html">
+                            <span>Reference</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="section">
+            <h2>Sem Question Papers</h2>
+            <div class="card-container">
+                <div class="card" onclick="showSemesters(this, 'Sem')">CSE</div>
+                <div class="card" onclick="showSemesters(this, 'Sem')">AI&DS</div>
+                <div class="card" onclick="showSemesters(this, 'Sem')">CME</div>
+                <div class="card" onclick="showSemesters(this, 'Sem')">EEE</div>
+                <div class="card" onclick="showSemesters(this, 'Sem')">ECE</div>
+                <div class="card" onclick="showSemesters(this, 'Sem')">IT</div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Mid Question Papers</h2>
+            <div class="card-container">
+                <div class="card" onclick="showSemesters(this, 'Mid')">CSE</div>
+                <div class="card" onclick="showSemesters(this, 'Mid')">AI&DS</div>
+                <div class="card" onclick="showSemesters(this, 'Mid')">CME</div>
+                <div class="card" onclick="showSemesters(this, 'Mid')">EEE</div>
+                <div class="card" onclick="showSemesters(this, 'Mid')">ECE</div>
+                <div class="card" onclick="showSemesters(this, 'Mid')">IT</div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Reference Solutions</h2>
+            <div class="card-container">
+                <div class="card" onclick="showSemesters(this, 'Solutions')">CSE</div>
+                <div class="card" onclick="showSemesters(this, 'Solutions')">AI&DS</div>
+                <div class="card" onclick="showSemesters(this, 'Solutions')">CME</div>
+                <div class="card" onclick="showSemesters(this, 'Solutions')">EEE</div>
+                <div class="card" onclick="showSemesters(this, 'Solutions')">ECE</div>
+                <div class="card" onclick="showSemesters(this, 'Solutions')">IT</div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Backlog Question Papers</h2>
+            <div class="card-container">
+                <div class="card" onclick="showSemesters(this, 'Backlog')">CSE</div>
+                <div class="card" onclick="showSemesters(this, 'Backlog')">AI&DS</div>
+                <div class="card" onclick="showSemesters(this, 'Backlog')">CME</div>
+                <div class="card" onclick="showSemesters(this, 'Backlog')">EEE</div>
+                <div class="card" onclick="showSemesters(this, 'Backlog')">ECE</div>
+                <div class="card" onclick="showSemesters(this, 'Backlog')">IT</div>
+            </div>
+        </section>
+
+        <section class="section other-colleges">
+            <h2>Other Colleges Question Papers</h2>
+            <div class="card-container">
+                <a href="assets/exampapers/OtherCollege/JNTUH papers.pdf" class="card">JNTUH</a>
+                <a href="assets/exampapers/OtherCollege/OU papers.pdf" class="card">OU</a>
+            </div>
+        </section>
+
+    </main>
+
+    <script>
+        function showSemesters(departmentCard, section) {
+            const semesters = ['1st Semester', '2nd Semester', '3rd Semester', '4th Semester'];
+            const department = departmentCard.textContent.trim().toLowerCase();
+            const sectionFolder = section;
+            
+            let semesterCardsHTML = '<div class="card-container">';
+            semesters.forEach(semester => {
+                const semesterPath = semester.replace(/ /g, '').toLowerCase();
+                const filePath = `assets/exampapers/${department}/${sectionFolder}/${semesterPath}.pdf`;
+                semesterCardsHTML += `<a href="${filePath}" class="card">${semester}</a>`;
+            });
+            semesterCardsHTML += '</div>';
+
+            if (departmentCard.nextElementSibling && departmentCard.nextElementSibling.classList.contains('card-container')) {
+                departmentCard.nextElementSibling.remove();
+            } else {
+                departmentCard.insertAdjacentHTML('afterend', semesterCardsHTML);
+            }
+        }
+    </script>
+</body>
+
+</html>

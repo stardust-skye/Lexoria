@@ -1,0 +1,78 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "EFFECTIVE TECHNICAL COMMUNICATION",
+            "Books": [
+                "Raman, Meenakshi & Sharma, Sangeeta, “Technical Communication: Principles and Practices",
+                "Rizvi, Ashrad, M, Effective Technical Communication (2nd Ed.)",
+                "Sharma, R.C., & Mohan, Krishna Business Correspondence and Report Writing: A Practical Approach to Business & Technical Communication",
+                "Tyagi, Kavitha & Misra, Padma, Advanced Technical Communication"
+            ]
+        },
+        {
+            "Subject": "AUTOMATA THEORY LANGUAGES AND COMPUTATION",
+            "Books": [
+                "John Hopcroft, Rajeev Motwani, Jeffery D Ulman. Introduction to Automata Theory Languages and Computation",
+                "John C. Martin, Introduction to Languages and the Theory of computation",
+                "Thomas Sudkamp, Languages and Machines: An Introduction to the Theory of Computer Science"
+            ]
+        },
+        {
+            "Subject": "ARTIFICIAL INTELLIGENCE",
+            "Books": [
+                "Stuart Russell and Peter Norvig: Artificial Intelligence – A Modern Approach",
+                "Saroj Kaushik, Artificial Intelligence",
+                "Kevin Knight, Elaine Rich, B. Nair, Artificial Intelligence",
+                "Nils J Nilsson, Artificial Intelligence A new synthesis"
+            ]
+        },
+        {
+            "Subject": "DATABASE MANAGEMENT SYSTEMS",
+            "Books": [
+                "Abraham Silberchatz, Henry F Korth and Sudarshan S, “Database System Concepts”",
+                "Raghu Ramakrishnan and Johannes Gehrke, “Database Management Systems”",
+                "Ramez Elmasri and Shamkant B Navathe, “Fundamentals of Database Systems”"
+            ]
+        },
+        {
+            "Subject": "OPERATING SYSTEMS",
+            "Books": [
+                "Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts Essentials",
+                "William Stallings, Operating Systems: Internals and Design Principles",
+                "Maurice Bach, Design of the Unix Operating Systems",
+                "Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel",
+                "Naresh Chauhan, Principles of Operating Systems"
+            ]
+        },
+        {
+            "Subject": "ELECTRICAL TECHNOLOGY",
+            "Books": [
+                "J.B. Gupta “Fundamentals of Electrical Engineering and Electronics”",
+                "P. S. Bimbhra, Electrical Machinery",
+                "Sunil R. Pawar “Electrical vehicle technology”"
+            ]
+        },
+        {
+            "Subject": "DATABASE MANAGEMENT SYSTEMS LAB",
+            "Books": [
+                "SQL, PL/SQL- The programming language of oracle, 4th Edition, Ivan Bayross",
+                "Oracle PL/SQL Training guide, SAMS",
+                "The Complete Reference, SQL, 3rd Edition, James R. Groff, Paul N. Weinberg, Andrew J. Oppel"
+            ]
+        },
+        {
+            "Subject": "OPERATING SYSTEM LAB",
+            "Books": [
+                "Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts Essentials",
+                "Naresh Chauhan, Principles of Operating Systems"
+            ]
+        },
+        {
+            "Subject": "WEB TECHNOLOGY AND APPLICATIONS LAB",
+            "Books": [
+                "W Hans Bergsten, “Java Server Pages”, O’Reilly",
+                "Adam Boduch and Roy Derks, “React and React Native: A Complete Hands-on Guide to Modern Web and Mobile Development with React.js”"
+            ]
+        }
+    ]
+}

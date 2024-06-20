@@ -1,0 +1,63 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "DIGITAL ELECTRONICS",
+            "Books": [
+                "Moris Mano and Michael D CIletti, Digital Design, Pearson, fourth edition",
+                "Zvi Kohavi, Switching and Finite Automata Theory, 3rd ed",
+                "R. P Jain, Modern Digital Electronics,4th ed",
+                "Ronald J.Tocci, Neal S. Widmer &Gregory L.Moss, Digital Systems: Principles and Applications",
+                "Samir Palnitkar , Verilog HDL A guide to digital design and Synthesi, Pearson"
+            ]
+        },
+        {
+            "Subject": "ARTIFICIAL INTELLIGENCE & ROBOTICS",
+            "Books": [
+                "Stuart Russell and Peter Norvig: Artificial Intelligence \u2013 A Modern Approach",
+                "Saroj Kaushik, Artificial Intelligence",
+                "John J. Craig, Introduction to Robotics"
+            ]
+        },
+        {
+            "Subject": "OPERATING SYSTEMS",
+            "Books": [
+                "AviSilberschatz,PeterGalvin,GregGagne,Operating System Concepts Essentials",
+                "William Stallings, Operating Systems: Internals and Design Principles",
+                "Maurice Bach, Design of the Unix Operating Systems",
+                "Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel",
+                "Naresh Chauhan, Principles of Operating Systems"
+            ]
+        },
+        {
+            "Subject": "COMPUTER NETWORKS",
+            "Books": [
+                "Computer Networks (5th Edition), Authors: Andrew S. Tanenbaum , David J. Wetherall, Pearson",
+                "Computer Networks: A Systems Approach, Authors: Larry Peterson and Bruce Davie, Elsevier",
+                "Computer Networking: A Top-Down Approach (6th Edition), Authors: James F. Kurose , Keith W. Ross , Pearson"
+            ]
+        },
+        {
+            "Subject": "DATA SCIENCE",
+            "Books": [
+                "Nina Zumel, John Mount Practical Data Science with R",
+                "Sameer Madhavan , Mastering Python for Data Science",
+                "Cathy O\u2019Neil and Rachel Schutt. Doing Data Science, Straight Talk from The Frontline.O\u2019Reilly."
+            ]
+        },
+        {
+            "Subject": "SOFTSKILLS LAB",
+            "Books": [
+                "Andrea J. Rutherford. Basic Communication Skills for Technology",
+                "Anne Dannellon. Team Talk The Power of Language in Team Dynamics.",
+                "Antony Jay and Ros Jay. Effective Presentation. How to be a Top Class Presenter.",
+                "Daniel Goldman. Emotional Intelligence. New York. Bantam Books"
+            ]
+        },
+        {
+            "Subject": "DATA SCIENCE USING R LAB",
+            "Books": [
+                "Nina Zumel, John Mount Practical Data Science with R"
+            ]
+        }
+    ]
+}

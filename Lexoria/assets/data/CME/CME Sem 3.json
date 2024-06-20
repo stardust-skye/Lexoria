@@ -1,0 +1,69 @@
+{
+    "Sheet1": [
+      {
+        "Subject": "MATHEMATICS-III",
+        "Books": [
+          "R.K. Jain and S.R. K. Iyengar, \"Advanced Engineering Mathematics\"",
+          "Dr. B. S. Grewal \"Higher Engineering Mathematics\"",
+          "P. Siva Rama Krishna Das & C. Vijaya Kumar, \"Engineering Mathematics\"",
+          "N.P. Bali & M. Goyal, \"A text Book of Engineering Mathematics\"",
+          "S.C. Gupta & V.K. Kapoor, \"Fundamentals of Mathematical Statistics\""
+        ]
+      },
+      {
+        "Subject": "DISCRETE MATHEMATICS",
+        "Books": [
+          "Kenneth H. Rosen, Discrete Mathematics and its Applications",
+          "Susanna S. Epp, Discrete Mathematics with Applications,4th edition",
+          "C L Liu and D P Mohapatra, Elements of Discrete Mathematics A Computer Oriented Approach, 3rd Edition"
+        ]
+      },
+      {
+        "Subject": "DIGITAL ELECTRONICS",
+        "Books": [
+          "Moris Mano and Michael D CIletti, Digital Design, Pearson, fourth edition",
+          "Zvi Kohavi, Switching and Finite Automata Theory, 3rd ed"
+        ]
+      },
+      {
+        "Subject": "OOPS USING JAVA",
+        "Books": [
+          "Schildt and Herbert, Java The complete reference, McGraw, 8th edition",
+          "R Nageswara Rao, Core JAVA: An Integrated Approach, Black Book",
+          "Cay S. Horstmann, Core JAVA Volume I—Fundamentals"
+        ]
+      },
+      {
+        "Subject": "CONCEPTS IN COMPUTER ORGANIZATION AND MICROPROCESSOR",
+        "Books": [
+          "Carl Hamacher, ZvonkoVranesic, SafwatZaky, Computer Organization, 5th Edition",
+          "Ramesh S Gaonkar, Microprocessor Architecture, Programming, and Applications with the 8085",
+          "Pal Chouduri, Computer Organization and Design"
+        ]
+      },
+      {
+        "Subject": "ELECTRICAL TECHNOLOGY",
+        "Books": [
+          "J.B. Gupta “Fundamentals of Electrical Engineering and Electronics”",
+          "P. S. Bimbhra, Electrical Machinery",
+          "Sunil R. Pawar “Electrical vehicle technology”"
+        ]
+      },
+      {
+        "Subject": "PYTHON PROGRAMMING LAB",
+        "Books": [
+          "Monu Singh Rakesh K. Yadav, Srinivas Arukonda \"Zero To Mastery In Python Programming\"",
+          "Martin C. Brown,” PYTHON: The Complete Reference”",
+          "Allen Downey , “Learning with Python”"
+        ]
+      },
+      {
+        "Subject": "OOPS USING JAVA LAB",
+        "Books": [
+          "Java The complete reference, 8th edition, Herbert Schildt",
+          "Core and Advanced Java, Black Book"
+        ]
+      }
+    ]
+  }
+  

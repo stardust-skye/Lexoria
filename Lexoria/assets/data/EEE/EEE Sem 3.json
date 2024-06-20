@@ -1,0 +1,71 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "PROBABILITY THEORY AND STOCHASTIC PROCESSES",
+            "Books": [
+                "Athanasius Papoulis and S. Unnikrishna Pillai, Probability, Random Variables and Stochastic Processes",
+                "P. Ramesh Babu, Probability Theory and Random Processes",
+                "B. G. Streetman and S.K. Banerjee, Solid State Electronic Devices"
+            ]
+        },
+        {
+            "Subject": "ELECTRICAL CIRCUIT ANALYSIS",
+            "Books": [
+                "William Hart Hayt, Jack Ellsworth Kemmerly, Steven M. Durbin (2007), Engineering Circuit Analysis",
+                "Charles K. Alexander and Matthew N.O. Sadiku, Fundamentals of Electric Circuits",
+                "N. C. Jagan and C. Lakshminarayan, Network Theory"
+            ]
+        },
+        {
+            "Subject": "ELECTROMAGNETIC FIELDS",
+            "Books": [
+                "W. Hayt, “Engineering Electromagnetics\""
+            ]
+        },
+        {
+            "Subject": "SIGNALS AND SYSTEMS ANALYSIS",
+            "Books": [
+                "A. V. Oppenheim, A. S. Willsky and S. H. Nawab, Signals and Systems",
+                "J. G. Proakis and D. G. Manolakis, Digital Signal Processing: Principles, Algorithms and Applications"
+            ]
+        },
+        {
+            "Subject": "ANALOG ELECTRONICS",
+            "Books": [
+                "S Salivahanan, N Kumar, and A Vallavaraj, Electronic Devices and Circuits",
+                "Jacob Millman, Christos C. Halkias, and Satyabrata Jit, Electronic Devices and Circuits",
+                "Jacob Milliman and Herbert Taub, “Pulse, Digital and Switching Waveforms”"
+            ]
+        },
+        {
+            "Subject": "FUNDAMENTALS OF COMPUTER SCIENCE",
+            "Books": [
+                "Fundamentals of Computer by E Balagurusamy",
+                "Software Engineering: A Practitioner’s Approach, Roger S Pressman",
+                "Forouzan A. B., Data Communication and Networking",
+                "Silverschatz A., Korth F. H. and Sudarshan S., Database System Concepts",
+                "Silberschatz A., Galvin B. P. and Gagne G., Operating System Concepts"
+            ]
+        },
+        {
+            "Subject": "DATA STRUCTURES LAB",
+            "Books": [
+                "Gilberg and Forouzan, Data Structure- A Pseudo Code Approach with C",
+                "Data Structure in C, Tanenbaum"
+            ]
+        },
+        {
+            "Subject": "CIRCUITS AND SIMULATION LAB",
+            "Books": [
+                "Agam Kumar Tyagi, MATLAB and Simulink for Engineers",
+                "Muhammad H. Rashid, Introduction to PSpice Using Orcad for Circuits and Electronics"
+            ]
+        },
+        {
+            "Subject": "ANALOG ELECTRONICS LAB",
+            "Books": [
+                "Analog Electronics Laboratory Manual"
+            ]
+        }
+    ]
+}

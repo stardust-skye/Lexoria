@@ -1,0 +1,69 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "MANAGERIAL ECONOMICS AND ACCOUNTANCY",
+            "Books": [
+                "M S Bhat And A V Rau, Managerial Economics And Financial Analysis",
+                "Joseph G. Nellis & David Parter, Principles of Business Economics",
+                "Mehta P.L., Managerial Economics – Analysis, Problems and Cases",
+                "Earl K. Stice and James D. Stice, Financial Accounting-Reporting and Analysis",
+                "Maheswari S.N., Introduction to Accountancy",
+                "Panday I.M., Financial Management"
+            ]
+        },
+        {
+            "Subject": "PROBABILITY THEORY AND STOCHASTIC PROCESSES",
+            "Books": [
+                "Peyton Z. Peebles, Probability, Random Variables & Random Signal Principles",
+                "Athanasius Papoulis and S. Unnikrishna Pillai, Probability, Random Variables and Stochastic Processes",
+                "P. Ramesh Babu, Probability Theory and Random Processes"
+            ]
+        },
+        {
+            "Subject": "ELECTRONIC DEVICES AND CIRCUITS",
+            "Books": [
+                "B. G. Streetman and S.K. Banerjee, Solid State Electronic Devices",
+                "Robert Boylestad and Louis Nashelsky, Electronic Devices and Circuit Theory",
+                "Jacob Millman, Christos C. Halkias, and Satyabrata Jit, Electronic Devices and Circuits"
+            ]
+        },
+        {
+            "Subject": "ELECTROMAGNETIC THEORY AND TRANSMISSION LINES",
+            "Books": [
+                "William H. Hayt Jr. and John A. Buck, Engineering Electromagnetics",
+                "Edward C. Jordan and Keith G. Balmain, Electromagnetic Waves and Radiating Systems",
+                "John D. Ryder, Networks Lines and Fields"
+            ]
+        },
+        {
+            "Subject": "DIGITAL SYSTEM DESIGN",
+            "Books": [
+                "M. Morris Mano and Michael D. Ciletti, Digital Design",
+                "Zvi Kohavi, Switching and Finite Automata Theory",
+                "Samir Palnitkar, Verilog HDL: A Guide to Digital Design and Synthesis",
+                "R.P Jain, Modern Digital Electronics"
+            ]
+        },
+        {
+            "Subject": "DATA STRUCTURES LAB",
+            "Books": [
+                "Gilberg and Forouzan, Data Structure - A Pseudo code Approach with C",
+                "Data Structure in C, Tanenbaum"
+            ]
+        },
+        {
+            "Subject": "ELECTRONIC DEVICES LAB",
+            "Books": [
+                "Electronic Devices Laboratory Manual"
+            ]
+        },
+        {
+            "Subject": "DIGITAL SYSTEM DESIGN LAB",
+            "Books": [
+                "M. Morris Mano & Michael D. Ciletti, Digital Design, Pearson",
+                "Samir Palnitkar, Verilog HDL: A Guide to Digital Design and Synthesis",
+                "Digital System Design Laboratory Manual"
+            ]
+        }
+    ]
+}

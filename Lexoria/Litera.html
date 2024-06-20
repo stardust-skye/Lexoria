@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexoria | Litera</title>
+    <link rel="stylesheet" href="litera-style.css">
+    <link rel="icon" type="image/png" href="/assets/images/NinX logo.jpg">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="nav-blur-bg"></div>
+            <div class="logo">
+                <a href="index.html">
+                    <img src="/assets/images/logo.jpg" alt="Logo">
+                </a>
+            </div>
+            <div class="right">
+                <ul>
+                    <li>
+                        <a href="index.html">
+                            <span>Home</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                                    stroke="#141B34" stroke-width="1.5" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="litera.html">
+                            <span>Litera</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                                    stroke="#141B34" stroke-width="1.5" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exam_zone.html">
+                            <span>Exam Zone</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                                    stroke="#141B34" stroke-width="1.5" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="reference.html">
+                            <span>Reference</span>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M6 9L11.2929 14.2929C11.6262 14.6262 11.7929 14.7929 12 14.7929C12.2071 14.7929 12.3738 14.6262 12.7071 14.2929L18 9"
+                                    stroke="#141B34" stroke-width="1.5" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="options-container">
+
+            <div class="image-container" id="international">
+                <img src="/assets/images/international-journals.jpg" alt="International Journals" id="international-journals" onclick="showJournals('international')">
+                <div class="hover-text">International Journals</div>
+            </div>
+            
+            <div class="image-container" id="national">
+                <img src="/assets/images/national-journals.jpg" alt="National Journals" id="national-journals"
+                    onclick="showJournals('national')">
+                <div class="hover-text">National Journals</div>
+            </div>
+
+            <div class="image-container" id="story">
+                <img src="/assets/images/other-books.jpeg" alt="Other Books" id="story-books" onclick="showJournals('story')">
+                <div class="hover-text">Other Books</div>
+            </div>
+        </div>
+
+        <div class="display-container" id="display-container"></div>
+    </main>
+
+    <script src="litera-script.js"></script>
+</body>
+
+</html>

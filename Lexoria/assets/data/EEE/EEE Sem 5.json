@@ -1,0 +1,65 @@
+{
+    "Sheet1": [
+      {
+        "Subject": "ELECTRICAL MACHINES – II",
+        "Books": [
+          "P.S.Bimbhra, Electrical Machinery",
+          "D.P. Kothari and I.J. Nagrath, Electrical Machines",
+          "J.B Gupta, S.K. Kataria & Sons, “Theory and performance of electrical machines”"
+        ]
+      },
+      {
+        "Subject": "POWER ELECTRONICS",
+        "Books": [
+          "M. H. Rashid, Power Electronics: Circuits, Devices and Applications",
+          "N. Mohan and T. M. Undeland, Power Electronics: Converters, Applications and Design",
+          "Dr. P.S. Bhimbra, Power Electronics"
+        ]
+      },
+      {
+        "Subject": "ELECTRICAL MEASUREMENTS & INSTRUMENTATION",
+        "Books": [
+          ". Shawney A.K., Electrical and Electronics Measurements and Instruments",
+          "Umesh Sinha, Electrical, Electronics Measurement and Instrumentations"
+        ]
+      },
+      {
+        "Subject": "POWER SYSTEMS – I",
+        "Books": [
+          "Wadhwa C.L., Electrical Power Systems",
+          "Wadhwa C.L., Generation, Distribution and Utilization of Electrical Energy",
+          "V.K.Mehta, Principles of Power Systems"
+        ]
+      },
+      {
+        "Subject": "FUNDAMENTALS OF IOT",
+        "Books": [
+          "Fundamentals of IOT by Dr.M.R.Arun"
+        ]
+      },
+      {
+        "Subject": "ELECTRICAL MACHINES – II LAB",
+        "Books": [
+          "Kothari D.P. & Nagrath I.J., Electrical Machines",
+          "Bhimbra P.S., Generalized Theory of Electrical Machines",
+          "Say MG., The Performance and Design of AC. Machines"
+        ]
+      },
+      {
+        "Subject": "POWER ELECTRONICS LAB",
+        "Books": [
+          " Bimbra.P.S., Power Electronics",
+          "Rashid M.H., Power Electronics Circuits, Devices and Applications",
+          "Singh. M.D., Khanchandani K.B., Power Electronics"
+        ]
+      },
+      {
+        "Subject": "MEASUREMENTS & INSTRUMENTATION LAB",
+        "Books": [
+          "Shawney A.K., Electrical and Electronics Measurements and Instruments",
+          "Umesh Sinha, Electrical, Electronics Measurement and Instrumentations"
+        ]
+      }
+    ]
+  }
+  

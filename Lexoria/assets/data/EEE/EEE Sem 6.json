@@ -1,0 +1,76 @@
+{
+    "Sheet1": [
+      {
+        "Subject": "FINANCE AND ACCOUNTING",
+        "Books": [
+          "Rajasekharan, Financial Accounting",
+          "Satyanarayana. S.V. and Satish. D., Finance and Accounting for Engineering"
+        ]
+      },
+      {
+        "Subject": "POWER SYSTEMS – II",
+        "Books": [
+          "CL Wadhwa – Electrical Power Systems",
+          "Nagarath and Kothari – Modern Power System Analysis"
+        ]
+      },
+      {
+        "Subject": "MICROPROCESSORS AND MICROCONTROLLERS",
+        "Books": [
+          "Krishna Kant – microprocessors and Microcontrollers – Architecture, Programming System Design 8085, 8086, 8051, 8096",
+          "Douglas, V. Hall microprocessors and Interfacing"
+        ]
+      },
+      {
+        "Subject": "DIGITAL SIGNAL PROCESSING",
+        "Books": [
+          "Proakis & Manolakis, “Digital Signal Processing Principles”",
+          "Sahivahanam, Valtavaraj & Gnanapariya, “Digital Sign Processing"
+        ]
+      },
+      {
+        "Subject": "LINEAR INTEGRATED CIRCUITS",
+        "Books": [
+          "Gayakwad W.A., Op-Amps and Linear Integrated Circuits",
+          "Malvino Albert Paul, Electronic Principles"
+        ]
+      },
+      {
+        "Subject": "DIGITAL CONTROL SYSTEMS ",
+        "Books": [
+          "K. Ogata, Discrete Time Control Systems",
+          "M. Gopal, Digital Control and State Variable Methods",
+          "R. Isermann, Digital Control Systems Vol 1&2, Springer-Verlag"
+        ]
+      },
+      {
+        "Subject": "SPECIAL ELECTRICAL MACHINES",
+        "Books": [
+          ". R. Krishnan, Electric Motor Drives",
+          "B.K. Bose, Modern Power Electronics and AC Drives"
+        ]
+      },
+      {
+        "Subject": "HIGH VOLTAGE ENGINEERING",
+        "Books": [
+          "M.S. Naidu and V. Kamaraju, High Voltage Engineering",
+          "E. Kuffel and M. Abdullah, High Voltage Engineering"
+        ]
+      },
+      {
+        "Subject": "DIGITAL SIGNAL PROCESSING LAB",
+        "Books": [
+          "Proakis & Manolakis, “Digital Signal Processing Principles\"",
+          "Sahivahanam, Valtavaraj & Gnanapariya, “Digital Sign Processing”"
+        ]
+      },
+      {
+        "Subject": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+        "Books": [
+          "Douglas, V. Hall microprocessors and Interfacing",
+          "Krishna Kant – microprocessors and Microcontrollers – Architecture, Programming and System Design 8085, 8086, 8051, 8096"
+        ]
+      }
+    ]
+  }
+  

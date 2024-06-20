@@ -1,0 +1,55 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "ANALOG ELECTRONIC CIRCUITS",
+            "Books": [
+                "Jacob Millman, Christos C. Halkias, and Satyabrata Jit, Electronic Devices and Circuits",
+                "David A. Bell, Electronic Devices and Circuits",
+                "S Salivahanan, N Kumar, and A. Vallavaraj, Electronic Devices and Circuits"
+            ]
+        },
+        {
+            "Subject": "SIGNAL AND SYSTEMS",
+            "Books": [
+                "B. P. Lathi, Linear Systems and Signals",
+                "A. V. Oppenheim, A.S. Willsky – Signals & Systems",
+                "P. Ramesh Babu, R. Ananada Natarajan - Signals and Systems"
+            ]
+        },
+        {
+            "Subject": "INTEGRATED CIRCUITS AND APPLICATIONS",
+            "Books": [
+                "J. Millman and H. Taub, ‘Pulse, Digital and Switching Waveforms’",
+                "Ramakanth A. Gayakwad, ‘Op-Amps and Linear Integrated Circuits’",
+                "D. Roy Chowdhury, Shail B. Jain, ‘Linear Integrated Circuits’"
+            ]
+        },
+        {
+            "Subject": "COMP",
+            "Books": [
+                "Morris Mano, M., “Computer System Architecture”",
+                "William Stallings, “Computer Organization and Architecture: Designing for performance”"
+            ]
+        },
+        {
+            "Subject": "ANTENNAS AND WAVE PROPAGATION",
+            "Books": [
+                "John. D. Kraus, Ronald J. Marhefka and Ahmad S. Khan, “Antennas and Wave Propagation”",
+                "Constantine A. Balanis, “Antenna Theory: Analysis and Design”",
+                "Edward C. Jordan and Keith G. Balmain, “Electromagnetic Waves and Radiating Systems\""
+            ]
+        },
+        {
+            "Subject": "ANALOG ELECTRONICS CIRCUITS LAB",
+            "Books": [
+                "Analog Electronic Circuits Laboratory Manual"
+            ]
+        },
+        {
+            "Subject": "INTEGRATED CIRCUITS LAB",
+            "Books": [
+                "Integrated Circuits Laboratory Manual"
+            ]
+        }
+    ]
+}

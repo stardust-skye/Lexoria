@@ -1,0 +1,60 @@
+{
+    "Sheet1": [
+        {
+            "Subject": "ELECTRICAL MACHINES-1",
+            "Books": [
+                "I. J. Nagrath and D. P. Kothari, Electric Machines",
+                "A. E. Fitzgerald and C. Kingsley, Electric Machinery",
+                "P. S. Bimbhra, Electrical Machinery"
+            ]
+        },
+        {
+            "Subject": "CONTROL SYSTEMS",
+            "Books": [
+                "Nagrath I.J. and Gopal.M, Control System Engineering",
+                "K. Ogata, Modern Control System"
+            ]
+        },
+        {
+            "Subject": "SWITCHING THEORY AND LOGIC DESIGN",
+            "Books": [
+                "M. M. Mano, Digital Logic and Computer Design",
+                "A. Kumar, Fundamentals of Digital Circuits"
+            ]
+        },
+        {
+            "Subject": "OOPS USING JAVA",
+            "Books": [
+                "C. Thomas Wu, An Introduction to Object-Oriented Programming with Java",
+                "Herbert Schildt, The Complete Reference JAVA"
+            ]
+        },
+        {
+            "Subject": "PYTHON PROGRAMMING",
+            "Books": [
+                "Allen B. Downey, “Think Python: How to Think like a Computer Scientist”",
+                "Karl Beecher, “Computational Thinking: A Beginner's Guide to Problem Solving and Programming”"
+            ]
+        },
+        {
+            "Subject": "ELECTRICAL MACHINES 1 LAB",
+            "Books": [
+                "P. S. Bimbhra, Electrical Machinery",
+                "A. E. Fitzgerald and C. Kingsley, Electric Machinery"
+            ]
+        },
+        {
+            "Subject": "CONTROL SYSTEMS LAB",
+            "Books": [
+                "Nagrath I.J. and Gopal.M, Control System Engineering"
+            ]
+        },
+        {
+            "Subject": "SWITCHING THEORY AND LOGIC DESIGN LAB",
+            "Books": [
+                "R. P. Jain, Modern Digital Electronics",
+                "Switching Theory and Logic Design Lab Manual"
+            ]
+        }
+    ]
+}

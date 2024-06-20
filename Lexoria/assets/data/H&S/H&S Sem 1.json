@@ -1,0 +1,140 @@
+{
+  "Sheet1": [
+    {
+      "Subject": "Applied Chemistry",
+      "Books": [
+        "P.C.Jain and M.Jain, Engineering Chemistry",
+        "Engineering Chemistry buShashi Chawla ",
+        "Chemistry in Engineering and Technology by Kuriacose&Rajaram. ",
+        "chemistry by B Shivashankar",
+        "Engineering Chemistry by Dr. S.S. Dara, Dr. K. Mukkanti, S.CHAND "
+      ]
+    },
+    {
+      "Subject": "PROGRAMMING FOR PROBLEM SOLVING",
+      "Books": [
+        "Somasekhara, \u201cProblem Solving with C \u201d, PHI. ",
+        "Byron Gottfried, \u201cProgramming with C\u201d, Schaum\u2019s Outlines Series",
+        " E. Balagurusamy, \u201cProgramming in ANSI C\u201d"
+      ]
+    },
+    {
+      "Subject": "ENGLISH",
+      "Books": [
+        "Board of Editors. Language and Life: A Skills Approach.",
+        "Sudharshana, NP and C Savitha. English for Engineers.",
+        "Kumar, Sanjay and PushpLata. English Language and Communication Skills for Engineers.",
+        "Practical English Usage by Michael Swan",
+        "Kumar, T Vijay, K DurgaBhavani and YL Srinivas. English in Use: A Textbook for College Students"
+      ]
+    },
+    {
+      "Subject": "Universal Human Values",
+      "Books": [
+        "R. R. Gaur, R Sangal, G P Bagaria, 2009, A Foundation Course in Human Values and Professional Ethics.",
+        "Prof. K. V. SubbaRaju, 2013, Success Secrets for Engineering Students",
+        "E. F. Schumancher, 1973, Small is Beautiful: a study of economics as if peoplemattered",
+        "A Nagraj, 1998 Jeevan Vidya ekParichay, Divya Path Sansthan, Amarkantak.",
+        "SmritiShristava, \"Human Values and Professional Ethics"
+      ]
+    },
+    {
+      "Subject": "CHEMISTRY LAB",
+      "Books": [
+        " SeniorPracticalPhysiclaChemistry,B.D.Khosla,A.Gjulati,V.C.Garg.",
+        "AnIntroductiontoPracticalChemistry,K.K.SharmaandD.S.Sharma",
+        "Experiments in Appliedchemistry,SunitaRattan,S.KKataria&Soms",
+        "Quantitative Inorganicchemistry by Vogel"
+      ]
+    },
+    {
+      "Subject": "PROGRAMMING FOR PROBLEM SOLVING LABORATORY ",
+      "Books": [
+        " Somasekhara, \u201cProblem Solving with C \u201d, PHI. ",
+        "Byron Gottfried, \u201cProgramming with C\u201d ",
+        "E. Balagurusamy, \u201cProgramming in ANSI C"
+      ]
+    },
+    {
+      "Subject": "Design Thinking",
+      "Books": [
+        " E.Balaguruswamy(2022), Developing Thinking Skills( The way to success)",
+        " John.R.Karsnitz, Stephen O\u2019Brien and John P. Hutchinson, \u201cEngineering Design\u201d"
+      ]
+    },
+    {
+      "Subject": "Mathematics-II ",
+      "Books": [
+        " Dr. B. S. Grewal, Higher Engineering Mathematics",
+        "B.V. Ramana, Higher Engineering Mathematics",
+        "N. Bali, M. Goyal, A text book of Engineering Mathematics",
+        "Erwin Kreyszig, Advanced Engineering Mathematics, John Wiley, 9* Edition "
+      ]
+    },
+    {
+      "Subject": "APPLIED PHYSICS",
+      "Books": [
+        "B.K.Pandey and S.Chaturvedi, Engineering physics.",
+        "D. K Bhatacharya and PoonamTandon, Engineering Physics",
+        "M. Armugam Materials Science",
+        "G. Aruldhas, Quantum Mechanics, 2nd Edition",
+        "S.O.Pillai, Solid State Physics, 4th Editio",
+        " Charles P Poole, Jr., Frank J. Owens, Introduction to NanoTechnology",
+        "S. Salivahanan, Basic Electronics"
+      ]
+    },
+    {
+      "Subject": "Data Structures",
+      "Books": [
+        " AaronM.Tenenbaum,YedidyahLangsam,andMosheJ.Augenstein,Data Structures Using C",
+        "ReemaThareja, DataStructures UsingC"
+      ]
+    },
+    {
+      "Subject": "Fundamentals of  Electrical& Electronics Engineering",
+      "Books": [
+        "Robert Boylestad L. and Louis Nashelsky, Electronic Devices and Circuit Theory",
+        "J.B.Gupta,\u201cFundamentalsofElectricalEngineeringandElectronics\u201d",
+        "Salivahanan, Suresh Kumar and Vallavaraj, Electronic Devices and Circuits, 2nd edition"
+      ]
+    },
+    {
+      "Subject": "ENGLISH LAB",
+      "Books": [
+        "Board of Editors. Language and Life: A Skills Approach.",
+        "Balasubramanian, T. A Textbook of English Phonetics for Indian Students.",
+        "CIEFL. Exercises in Spoken English. Parts. I-III.",
+        "Pillai, Radhakrishna G. Spoken English For You - Level II. 8th Edition.",
+        "Sethi, J and PV Dhamija. A Course in Phonetics and Spoken English. 2nd Edition.",
+        "Prentice Hall India Learning Private Limited, 1999.",
+        "Kumar, T Vijay, K DurgaBhavani and YL Srinivas. English in Use: A Textbook for College Students"
+      ]
+    },
+    {
+      "Subject": "Fundamentals of  Electrical& Electronics Engineering Lab",
+      "Books": [
+        "Maheshwari and Anand, Laboratory Experiments and PSPICE Simulations in Analog Electronics",
+        "David Bell A., Laboratory Manual for Electronic Devices and Circuits"
+      ]
+    },
+    {
+      "Subject": "ENGINEERING WORKSHOP",
+      "Books": [
+        "Venugopal,K,\u201dWorkshop Manual\u201d",
+        "K.C.John, \u201cMechanical Workshop\u201d 2ndEdn., PHI, 2010.",
+        "HajraChoudary, \u201cElements of Workshop Technology\u201d Vol.1",
+        "\u00a0 G.S.Sawhney, \u201cMechanical Experiments and Workshop Practice\u201d"
+      ]
+    },
+    {
+      "Subject": "ENGINEERING GRAPHICS LAB",
+      "Books": [
+        "Elementary Engineering Drawing, ND Bhatt",
+        "Engineering Drawing, KL Narayana& P Kannaya",
+        "Engineering Drawing and Graphic Technology, T.E French et al",
+        "Engineering Drawing Graphics & Auto cad, K Venugopa",
+        "Engineering Drawing with a primer on Auto cad, AN Siddique et al"
+      ]
+    }
+  ]
+}
